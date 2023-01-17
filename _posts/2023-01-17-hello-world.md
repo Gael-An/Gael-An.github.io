@@ -31,3 +31,9 @@ std::cout << "Hello. World! >> std::endl;
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
+
+![image](https://user-images.githubusercontent.com/42318591/83347976-dd69a700-a363-11ea-8e3f-4ca56ce20a87.png){: .align-center width="300px", height="300px"}
+
+![image](https://media1.giphy.com/media/jp8vmgIxRtKPmdnkyj/giphy.gif?cid=ecf05e47328ab653e6da460ffbf8bfa4a2781fac5df90c6c&rid=giphy.gif){: .align-center}
+
+{% include video id="S3Np0ktcm6I" provider="youtube" %}
